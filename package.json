@@ -31,7 +31,6 @@
   "main": "index.js",
   "devDependencies": {
     "chai": "^2.3.0",
-    "mocha": "^2.2.5",
-    "mq-node": "git://github.com/webcaetano/mq-node#35ec37ec6adf41bf04501aa4e3eb5b272654cef2"
+    "mocha": "^2.2.5"
   }
 }
